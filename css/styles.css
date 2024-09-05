@@ -1,0 +1,16 @@
+body {
+  background-color: lavenderblush;
+}
+
+h1,
+a {
+  color: plum;
+}
+
+h1:hover {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
